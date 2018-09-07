@@ -1,16 +1,16 @@
 # XcodeMVCProjectTemplate
 Single view application template with a preset file structure including a storyboard and launch screen.
 
-├── Your App<br>
+├── App<br>
 ├──── Info.plist<br>
 ├──── Assets.xcassets<br>
 ├──── LaunchScreen.storyboard<br>
 ├──── Models/<br>
-├──── Views/<br>
+├──── UI/<br>
 ├────── Main.storyboard<br>
 ├──── Controllers/<br>
-├────── ModelControllers/<br>
-├────── ViewControllers/<br>
+├────── Model Controllers/<br>
+├────── View Controllers/<br>
 ├──── Resources/<br>
 ├────── AppDelegate.swift<br>
 
