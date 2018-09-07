@@ -1,18 +1,18 @@
 # XcodeMVCProjectTemplate
 Single view application template with a preset file structure including a storyboard and launch screen.
 
-├── App<br>
-├──── Info.plist<br>
-├──── Assets.xcassets<br>
-├──── LaunchScreen.storyboard<br>
-├──── Models/<br>
-├──── UI/<br>
-├────── Main.storyboard<br>
-├──── Controllers/<br>
-├────── Model Controllers/<br>
-├────── View Controllers/<br>
-├──── Resources/<br>
-├────── AppDelegate.swift<br>
+├── App/
+├──── Info.plist
+├──── Assets.xcassets
+├──── LaunchScreen.storyboard
+├──── Models/
+├──── UI/
+├────── Main.storyboard
+├──── Controllers/
+├────── Model Controllers/
+├────── View Controllers/
+├──── Resources/
+├────── AppDelegate.swift
 
 
 
@@ -38,6 +38,6 @@ Delete the `DELETE-ME` files (needed to create groups) and move the assets and L
 
 <br><br><br><br>
 
-## TroubleShooting
+## Troubleshooting
 
 Make sure you have a folder in `'Templates'` called `'Project Templates'`. Create one if you do not have one. Copy the `.xctemplate` into there.
