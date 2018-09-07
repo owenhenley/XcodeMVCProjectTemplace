@@ -17,6 +17,7 @@ Single view application template with a preset file structure including a storyb
 
 
 <br>
+
 ## Installation
 
 1. Unzip the Repo
@@ -26,6 +27,7 @@ Single view application template with a preset file structure including a storyb
 3. Drag `Base App.xctemplate` into the folder.
 
 <br>
+
 ## Usage
 
 Open Xcode, go to 'Project Templates ', and use that as your starting project.
@@ -35,6 +37,7 @@ Open Xcode, go to 'Project Templates ', and use that as your starting project.
 Delete the `DELETE-ME` files (needed to create groups) and move the assets and LaunchScreen to `'Resources'`.
 
 <br><br><br><br>
+
 ## TroubleShooting
 
 Make sure you have a folder in `'Templates'` called `'Project Templates'`. Create one if you do not have one. Copy the `.xctemplate` into there.
