@@ -43,7 +43,7 @@ Open Xcode, go to down to `'Project Templates'`, and use that as your starting p
 
 <br>
 
-Delete the `DELETE-ME` files (needed to create groups) and move the assets to `'Resources'` and LaunchScreen to `'Views'`.
+Delete the `DELETE-ME` files (needed to create groups) and move the assets and info.plist to `'Resources'` and LaunchScreen to `'Views'`.
 
 <br><br><br><br>
 
