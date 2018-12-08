@@ -12,7 +12,8 @@ Single view application template with a preset file structure including a storyb
 |──── LaunchScreen.storyboard<br>
 |──── Models/<br>
 |──── Views/<br>
-|────── Main.storyboard<br>
+|────── Storyboards/<br>
+|──────-- Main.storyboard<br>
 |──── Controllers/<br>
 |────── Model Controllers/<br>
 |────── View Controllers/<br>
@@ -37,7 +38,7 @@ Single view application template with a preset file structure including a storyb
 
 ## Usage
 
-Open Xcode, go to down to `'Project Templates'`, and use that as your starting project.
+Open Xcode, go to down to `'Project Templates'`, and use `Base App` as your starting project.
 
 <br/><p align="center"><img width="550" src="https://user-images.githubusercontent.com/28428200/45191970-1d3d4200-b203-11e8-860e-1746982bf03c.png"/></p>
 
@@ -49,4 +50,4 @@ Delete the `DELETE-ME` files (needed to create groups) and move the assets and i
 
 ## Troubleshooting
 
-Use `⌘ + .` to show hidden files, so you can see the `'Library'` folder in your Home Directory.
+Use `⌘ + .` to show hidden files, so you can see the `'Library'` folder in your `Home Directory`.
